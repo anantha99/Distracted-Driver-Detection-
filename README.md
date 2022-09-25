@@ -5,10 +5,20 @@ Given the dataset consisting of driver images in car and corresponding labels fo
 
 ## Technology Stack Used:
 
-1. **PyTorch** <br>
-2. **Scikit-Learn** <br>
-3. **TorchVision** <br>
-4. **Model**: ResNet50
+### Library 
+1. **TorchVision** <br>
+2. **Numpy** <br>
+3. **Pandas** <br>
+4. **MatplotLib**<br>
+5. **Seaborn**<br>
+### Frameworks 
+
+1. **PyTorch**
+
+### Other Tools/ Mechanisms
+
+1. **Resnet-50** <br>
+2. **Transfer Learning**
 
 ## Working:
 
